@@ -1,0 +1,195 @@
+
+
+
+#container-fluid2 {
+    background-color: #D9ED82;
+    padding-top: 100px;
+    padding-bottom: 100px ;
+}
+
+.sec-1 {
+    font-family: 'Playfair Display', serif;
+}
+
+.sec-1 h1 {
+    padding-top: 85px;
+    font-size: 320%;
+    font-weight: bold;
+
+}
+
+.sec-1 p {
+    font-size: 150%;
+}
+
+.btn {
+    background-color: #D9ED82;
+    border-radius: 25px;
+}
+
+.btn:hover {
+    background-color: #fff;
+    border-radius: 25px;
+}
+
+.btn a {
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+
+#client img {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 200px;
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+}
+
+#s-img img {
+    border-radius: 200px;
+}
+
+.col-sm-4 {
+    padding-bottom: 12px;
+}
+
+.col-md-4 {
+    padding-bottom: 15px;
+}
+
+
+
+
+/* slider css*/
+
+.card_slider {
+    padding: 50px 0;
+}
+
+.img_box img {
+    display: block;
+    width: 100%;
+    height: 430px;
+    object-fit: cover;
+    border-radius: 25px;
+}
+
+.img_box img:hover{
+    height: 460px;
+    opacity: 0.35;
+}
+
+.slider-container .container {
+    padding: 0 15px;
+    max-width: 1230px;
+    margin: 0 auto;
+}
+
+.swiper-slide {
+    width: 80%;
+    background: transparent;
+}
+
+.carousel-caption{
+    margin-bottom: 100px;
+}
+
+.btn-float{
+    justify-content: end;
+    text-align: end;
+    margin-right: 60px;
+}
+
+
+
+
+#abtn, #abtn2{
+    height: 35px;
+    width: 70px;
+    padding-top: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    border: 2px solid rgb(92, 17, 100);
+    border-radius: 25px;
+}
+
+#abtn:hover, #abtn2:hover{
+    background-color: rgb(92, 17, 100);
+    color: #fff;
+}
+
+
+.carousel-caption a{
+    text-decoration: none;
+    color: white;
+}
+
+.carousel-caption a:hover{
+    color:black;
+    background-color: #D9ED82;
+    border-radius: 25px;
+    padding: 4px 8px;
+}
+/*----------slider css end-----*/
+
+#line{
+    margin-top: 50px;
+    border-top: 2px solid white;
+    padding: 10px;
+}
+
+#t1{
+    padding-top: 50px;
+    margin-bottom: 150px;
+}
+
+
+#container1{
+    background: url(../image/bg.jpg) no-repeat center center/cover;
+}
+
+.col-sm-6 h4{
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+}
+
+
+
+#copy2{
+    border-top: 2px solid white;
+}
+
+#navtab a{
+    padding-left: 0.3rem !important;
+}
+
+#trip-image1{
+    margin-bottom: 400px;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 15px;
+    left: 30px;
+    font-family: 'Playfair Display', serif;
+  }
+
+#trip-1{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+#trip-1 img{
+    border-radius: 15px;
+}
+
+#dm{
+    max-width: 90%;
+    justify-content: center;
+    background-color: white;
+}
+
